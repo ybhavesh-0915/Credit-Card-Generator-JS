@@ -53,8 +53,8 @@ A responsive web application that generates fake credit card data using the [Fak
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ybhavesh-0915/Credit-Card-Generator.git
-   cd Credit-Card-Generator
+   git clone https://github.com/ybhavesh-0915/Credit-Card-Generator-JS.git
+   cd Credit-Card-Generator-JS
    ```
 
 2. If you're editing SCSS, use a live SCSS compiler (like VS Code extension or Sass CLI) to generate `style.css`:
@@ -76,6 +76,6 @@ A responsive web application that generates fake credit card data using the [Fak
 
 ### 📜 License
 
-MIT License © Bhavesh Yadav
+[MIT License](LICENSE) © Bhavesh Yadav
 
 ---
